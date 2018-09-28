@@ -1,0 +1,1 @@
+{'template':PhLRemoteTemplate{#name:'latest-64',#url:ZnUrl{#scheme:#http,#host:'files.pharo.org',#segments:OrderedCollection['image','60',#/,'latest-64.zip']}}}
